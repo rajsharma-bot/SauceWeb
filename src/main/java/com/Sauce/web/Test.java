@@ -9,7 +9,7 @@ public class Test {
 		int b=a;
 		
 		System.out.println(a+b);
-		System.out.println();
+		System.out.println(a);
 	}
 
 }
